@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_margin_standard">30dp</dimen>
+    <dimen name="dimen_margin_small">10dp</dimen>
+    <dimen name="dimen_icon_padding_small">5dp</dimen>
+    <dimen name="dimen_text_padding_small">10dp</dimen>
+    <dimen name="dimen_icon_size_standard">30dp</dimen>
+    <dimen name="dimen_icon_size_large">50dp</dimen>
+    <dimen name="dimen_heading_text_size_standard">30sp</dimen>
+    <dimen name="dimen_text_size_standard">18sp</dimen>
+    <dimen name="dimen_cards_height">70dp</dimen>
+    <dimen name="dimen_cards_corner_radius">10dp</dimen>
+    <dimen name="dimen_cards_elevation">5dp</dimen>
+</resources>

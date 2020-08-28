@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nutrition_fit</string>
+
+    <string name="main_activity_heading">Approved Foods List</string>
+</resources>
